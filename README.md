@@ -1,12 +1,26 @@
-# React + Vite
+# 🏦 Hoobank Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a single-page landing page website built with **ReactJS** and **Tailwind CSS**. This website is for learning and practicing React and Tailwind, and learn how to transform **Figma designs** into a fully functioning website. This project is created aiming to improve my Tailwind CSS skills and creating modern and responsive ReactJS websites.
 
-Currently, two official plugins are available:
+## ⚒️ Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- HTML
+- Tailwind CSS
+- ReactJS
 
-## Expanding the ESLint configuration
+## 📷 Screenshots
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<img width="1903" height="846" alt="Image" src="https://github.com/user-attachments/assets/ef0750c8-2dc7-4cff-8ce9-818c79ecbb47" />
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm run dev`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+## ✍️ Authors
+
+- [@mjngayawon](https://github.com/mjngayawon)
